@@ -99,3 +99,5 @@ Sending Push Notification: Hello, World!
 ## ⭐ Star the Repo
 
 If this helped you understand interfaces and factory pattern better, consider leaving a ⭐ to support the project!
+
+<img width="2112" height="2264" alt="image" src="https://github.com/user-attachments/assets/f119d1d2-3b19-4c04-a436-2b26d118648e" />
